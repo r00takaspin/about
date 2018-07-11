@@ -20,6 +20,8 @@
 Опыт работы: 
 * [UltimateGuitar](https://www.ultimate-guitar.com/), [Revo](https://revo.ru/), [Air Black Box](https://www.airblackbox.com/), [CyberDOI](https://cyberdoi.ru/), [Юлмарт](https://www.ulmart.ru/), [Матрешка](https://ma3ka.com/), [PinPil](https://pinpil.ru/), [Клопс](http://klops.ru/), [ТвойБро](http://tvoybro.com)
 
+[Ссылки на статьи и публикации](http://voldemar.name/REFS)
+
 Telegram: [@r00takaspin](https://t.me/r00takaspin)
 
 GitHub: [http://github.com/r00takaspin](http://github.com/r00takaspin)
