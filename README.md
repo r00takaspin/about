@@ -23,6 +23,8 @@
 
 Telegram: [@r00takaspin](https://t.me/r00takaspin)
 
+Skype: [v.duletskiy](https://join.skype.com/invite/uTi500QKaZVF)
+
 GitHub: [http://github.com/r00takaspin](http://github.com/r00takaspin)
 
 Facebook: [http://facebook.com/voldemar.duletskiy](http://facebook.com/voldemar.duletskiy)
