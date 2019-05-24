@@ -11,7 +11,6 @@
 * микросервисов (protobuf, grpc, cobra)
 * взаимодействие с очередями (Kafka)
 * написание юнит (testify/require) и интеграционных тестов
-* взаимодействием с базой данных (datastore)
 
 Предыдущие проекты:
 * разработка социальной сети обмена фотографиями (отечественный клон инстаграма), стек: Elixir, Phoenix, PostgreSQL
@@ -19,10 +18,6 @@
 * [klops.ru](http://klops.ru/): разрабокта крупного регионального новостного портала, стек: Ruby On Rails, PostgreSQL, Sidekiq
 * [cyberdoi.ru](http://cyberdoi.ru): система выдачи идентификаторов для научных статей, стек: Ruby On Rails, PostgreSQL, Sidekiq
 * [cryptopay.me](http://cryptopay.me/): система верификации клиентов платежной системы, стек: Ruby On Rails, Vue JS, PostgreSQL
-
-
-<!-- Опыт работы: 
-* [UltimateGuitar](https://www.ultimate-guitar.com/), [Revo](https://revo.ru/), [Air Black Box](https://www.airblackbox.com/), [CyberDOI](https://cyberdoi.ru/), [Юлмарт](https://www.ulmart.ru/), [Матрешка](https://ma3ka.com/), [PinPil](https://pinpil.ru/), [Клопс](http://klops.ru/), [ТвойБро](http://tvoybro.com) -->
 
 [Ссылки на статьи и публикации](http://voldemar.name/REFS)
 
